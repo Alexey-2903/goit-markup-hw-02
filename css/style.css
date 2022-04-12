@@ -1,16 +1,4 @@
-/* основной цвет background: #212121; --title-text-color */
 
-/* неактивные контакты, абзац и вторичный  background: #757575; --primari-text-color */
-
-/* основной фон страницы background: #FFFFFF; --primari-white-color */
-
-/* акцент background: #2196F3;--accent-color */
-/* ховер героя backgraund: #188CE8; --hover-button */
-
-/* фон героя и футер background: #2F303A; --hero-bgrcolor */
-/* фон команда background: #F5F4FA; --staff-bdrcolor */
-
-/* контакты в футере background: #FFFFFF99;   rgba(0, 0, 0, 0.6); --contact-footer */
 
 :root {
   --title-text-color: #212121;
